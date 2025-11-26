@@ -1,0 +1,2 @@
+[functions.cohere-chat]
+verify_jwt = true
